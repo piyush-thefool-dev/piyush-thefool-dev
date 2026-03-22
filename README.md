@@ -221,9 +221,8 @@ LEARNING PHILOSOPHY
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/metrics.svg"/>
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/metrics.svg"/>
 </picture>
 
 </div>
@@ -266,3 +265,4 @@ LEARNING PHILOSOPHY
 *"The expert in anything was once a beginner who refused to stop."*
 
 </div>
+
