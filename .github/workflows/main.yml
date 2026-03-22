@@ -17,9 +17,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: piyush-thefool-dev
-          template: classic
-          base: activity, community, repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          output_action: gist
-          committer_gist: YOUR_GIST_ID
+          filename: metrics.svg
+          output_action: commit
+          committer_branch: output
