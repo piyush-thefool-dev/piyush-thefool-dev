@@ -23,7 +23,7 @@
 | **Side Operations** | Cybersecurity & Ethical Hacking 🔐 |
 | **Environment** | Windows 11 · Ubuntu 22.04 LTS (VM) · Kali Linux (VM) |
 | **Current Mission** | FOSS Hackathon — ECO (P2P file sharing) 🚀 |
-| **Identity** | 🃏 Jack of All Trades — Master of None (yet) |
+| **Identity** | 🃏 Jack of All Trades — Master of None (yet) / The Fool |
 | **Learning Style** | Hands-on · Obsessive · Never stopping 📖 |
 | **Contact** | thefool.dev.pk@gmail.com |
 
