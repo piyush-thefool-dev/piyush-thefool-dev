@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/main/header.png" width="100%" alt="The Fool"/>
+<img src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/main/header.png" width="100%" alt="The Fool — Dossier"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 | **Side Operations** | Cybersecurity & Ethical Hacking 🔐 |
 | **Environment** | Windows 11 · Ubuntu 22.04 LTS (VM) · Kali Linux (VM) |
 | **Current Mission** | FOSS Hackathon — ECO (P2P file sharing) 🚀 |
-| **Identity** | 🃏 Jack of All Trades — Master of None (yet) / The Fool |
+| **Identity** | 🃏 Jack of All Trades — Master of None (yet) |
 | **Learning Style** | Hands-on · Obsessive · Never stopping 📖 |
 | **Contact** | thefool.dev.pk@gmail.com |
 
@@ -215,6 +215,16 @@ LEARNING PHILOSOPHY
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-thefool-dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
