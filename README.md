@@ -122,7 +122,7 @@ LEARNING PHILOSOPHY
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/-%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/piyush-thefool-dev)
+[![TryHackMe](https://img.shields.io/badge/-%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/TheFool001)
 
 </div>
 
@@ -237,14 +237,14 @@ LEARNING PHILOSOPHY
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush--thefool--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-thefool-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-piyush--thefool--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush-thefool-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-thefool.dev.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thefool.dev.pk@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/piyush-thefool-dev)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/TheFool001)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/piyush-thefool-dev/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>
 <a href="https://github.com/piyush-thefool-dev"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>
 <a href="mailto:thefool.dev.pk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/></a>
-<a href="https://tryhackme.com/p/piyush-thefool-dev"><img src="https://assets.tryhackme.com/img/THMlogo.png" height="45" alt="TryHackMe"/></a>
+<a href="https://tryhackme.com/p/TheFool001"><img src="https://assets.tryhackme.com/img/THMlogo.png" height="45" alt="TryHackMe"/></a>
 
 </div>
 
