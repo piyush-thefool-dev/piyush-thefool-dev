@@ -221,9 +221,12 @@ LEARNING PHILOSOPHY
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/metrics.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/metrics.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/pacman.svg"/>
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/pacman-dark.svg"/>
 </picture>
+
+[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20🏙️-0d1117?style=for-the-badge)](https://skyline.github.com/piyush-thefool-dev/2026)
 
 </div>
 
