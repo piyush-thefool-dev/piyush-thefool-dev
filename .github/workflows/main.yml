@@ -1,4 +1,4 @@
-name: Generate Pac-Man
+name: Generate Snake
 
 on:
   schedule:
