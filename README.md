@@ -23,7 +23,7 @@
 | **Side Operations** | Cybersecurity & Ethical Hacking 🔐 |
 | **Environment** | Windows 11 · Ubuntu 22.04 LTS (VM) · Kali Linux (VM) |
 | **Current Mission** | FOSS Hackathon — ECO (P2P file sharing) 🚀 |
-| **Identity** | 🃏 Jack of All Trades — Master of None (yet) |
+| **Identity** | 🃏 Jack of All Trades — Master of None (yet) / The Fool |
 | **Learning Style** | Hands-on · Obsessive · Never stopping 📖 |
 | **Contact** | thefool.dev.pk@gmail.com |
 
@@ -225,8 +225,6 @@ LEARNING PHILOSOPHY
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/pacman.svg"/>
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/piyush-thefool-dev/piyush-thefool-dev/output/pacman-dark.svg"/>
 </picture>
-
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20🏙️-0d1117?style=for-the-badge)](https://skyline.github.com/piyush-thefool-dev/2026)
 
 </div>
 
