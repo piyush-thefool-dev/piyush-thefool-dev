@@ -6,7 +6,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=680&lines=%E2%98%95+Java+Developer+%7C+Web+Dev+%7C+Cybersecurity;%F0%9F%83%8F+Jack+of+All+Trades+%E2%80%94+Master+of+None+(yet);%E2%9A%A1+I+don%27t+just+learn+things+%E2%80%94+I+collect+them;%F0%9F%94%A8+Building+%E2%80%A2+Breaking+%E2%80%A2+Learning+%E2%80%A2+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=680&lines=%E2%98%95+Java+Developer+%7C+Web+Dev+%7C+Cybersecurity;%F0%9F%83%8F+Jack+of+All+Trades+%E2%80%94+Master+of+None+(yet);%E2%9A%A1+I+don%27t+just+learn+things+%E2%80%94+I+collect+them;%F0%9F%94%A8+Building+%E2%80%A2+Breaking+%E2%80%A2+Learning+%E2%80%A2+Repeat;%F0%9F%9A%80+Currently+Mastering+the+MERN+Stack)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 | **Expanding Into** | Full Stack Web Development 🌐 |
 | **Side Operations** | Cybersecurity & Ethical Hacking 🔐 |
 | **Environment** | Windows 11 · Ubuntu 22.04 LTS (VM) · Kali Linux (VM) |
-| **Current Mission** | FOSS Hackathon — ECO (P2P file sharing) 🚀 |
+| **Current Mission** | Mastering MERN Stack — React · Redux · Bootstrap · MongoDB · Express · Node 🚀 |
 | **Identity** | 🃏 Jack of All Trades — Master of None (yet) / The Fool |
 | **Learning Style** | Hands-on · Obsessive · Never stopping 📖 |
 | **Contact** | thefool.dev.pk@gmail.com |
@@ -140,44 +140,40 @@ LEARNING PHILOSOPHY
 
 ---
 
-### 〔 06 〕ACTIVE MISSION — FOSS HACKATHON
+### 〔 06 〕ACTIVE MISSION — MERN STACK MASTERY
 
 <div align="center">
 
-### ⚡ ECO — Efficient Compressed Operations
+### ⚡ Going Full Stack — The MERN Way
 
-*Privacy-first · Peer-to-Peer · Serverless file sharing*
+*React · Redux · Bootstrap · MongoDB · Express · Node.js*
 
 </div>
 
-> A P2P file transfer utility that compresses data using a **custom Huffman Coding algorithm** for ultra-fast, serverless sharing — no cloud, no middleman, no leaks.
+> The mission is simple: become a complete full-stack web developer. Not just someone who knows the pieces — someone who can architect, build, and ship real products from frontend to backend, end to end.
 
-| Pillar | What it means |
+| Pillar | What I'm Building Toward |
 |:---|:---|
-| 🔒 **Zero-Knowledge Privacy** | Files stream directly RAM → RAM. No server holds your data, ever. |
-| 📉 **Huffman Compression** | Custom bit-level compression built from scratch — smaller payloads, faster transfer |
-| 🔌 **True P2P via WebRTC** | Direct encrypted browser-to-browser pipe — server bypassed once connected |
+| ⚛️ **React.js** | Component architecture · Hooks · SPA routing · Reusable UI |
+| 🔄 **Redux** | Predictable global state · Redux Toolkit · Async flows |
+| 🎨 **Bootstrap** | Rapid responsive UI · Grid system · Utility-first styling |
+| 🟢 **Node.js + Express** | REST API design · Middleware · Auth · Server-side logic |
+| 🍃 **MongoDB** | Document model · Mongoose ODM · Schema design · Queries |
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind" height="45" alt="ECO Stack"/>
-
-| Layer | Technology |
-|:---|:---|
-| 🧠 Compression Logic | Custom Huffman Coding in JavaScript (no libraries) |
-| 🛰️ P2P Transport | WebRTC Data Channels |
-| 🎨 Interface | Tailwind CSS |
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,nodejs,express,mongodb,js,html,css" height="45" alt="MERN Stack"/>
 
 **Progress**
 
 ```
-[████████████████████░░░░]  85%
-
-✔  Huffman compression engine   — DONE
-✔  WebRTC P2P connection        — DONE
-✔  File transfer core           — DONE
-~  Huffman ↔ WebRTC integration — IN PROGRESS  🔨
-○  Deployment                   — PENDING
+React.js         [████░░░░░░░░░░░░░░░░]  20%   📖 Actively Studying
+Redux            [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Bootstrap        [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Node.js          [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Express.js       [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+MongoDB          [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Full MERN App    [░░░░░░░░░░░░░░░░░░░░]   0%   🎯 The goal
 ```
 
 ---
