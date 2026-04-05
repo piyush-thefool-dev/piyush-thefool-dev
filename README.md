@@ -182,13 +182,6 @@ Full MERN App    [░░░░░░░░░░░░░░░░░░░░] 
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=piyush-thefool-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-thefool-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=piyush-thefool-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
