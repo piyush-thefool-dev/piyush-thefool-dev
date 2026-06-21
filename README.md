@@ -53,12 +53,13 @@
 
 | Icon | Language | Proficiency | Role |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" height="35"/> | **Java** | `████████████████░░░░` 80% | OOP · Classes & Objects · Inheritance · Exception Handling · Collections · DSA |
-| <img src="https://skillicons.dev/icons?i=python" height="35"/> | **Python** | `████████████░░░░░░░░` 60% | Secondary · Scripting |
-| <img src="https://skillicons.dev/icons?i=c" height="35"/> | **C** | `██████████░░░░░░░░░░` 50% | Variables · Loops · Functions · Arrays · Pointers · File Handling |
-| <img src="https://skillicons.dev/icons?i=html" height="35"/> | **HTML** | `████████████████████` 100% | Web Foundation · Solid |
-| <img src="https://skillicons.dev/icons?i=css" height="35"/> | **CSS** | `██████░░░░░░░░░░░░░░` 30% | Still Learning · In Progress |
-| <img src="https://skillicons.dev/icons?i=js" height="35"/> | **JavaScript** | `████████░░░░░░░░░░░░` 40% | Web · Actively Growing |
+| <img src="https://skillicons.dev/icons?i=java" height="35"/> | **Java** | `████████████████░░░░  80%` | OOP · Classes & Objects · Inheritance · Exception Handling · Collections · DSA |
+| <img src="https://skillicons.dev/icons?i=python" height="35"/> | **Python** | `████████████░░░░░░░░  60%` | Secondary · Scripting |
+| <img src="https://skillicons.dev/icons?i=c" height="35"/> | **C** | `██████████░░░░░░░░░░  50%` | Variables · Loops · Functions · Arrays · Pointers · File Handling |
+| <img src="https://skillicons.dev/icons?i=cpp" height="35"/> | **C++** | `████░░░░░░░░░░░░░░░░  20%` | Just Getting Started · OOP Basics |
+| <img src="https://skillicons.dev/icons?i=html" height="35"/> | **HTML** | `████████████████████ 100%` | Web Foundation · Solid |
+| <img src="https://skillicons.dev/icons?i=css" height="35"/> | **CSS** | `██████████░░░░░░░░░░  50%` | Still Learning · In Progress |
+| <img src="https://skillicons.dev/icons?i=js" height="35"/> | **JavaScript** | `████████░░░░░░░░░░░░  40%` | Web · Actively Growing |
 
 </div>
 
@@ -255,4 +256,3 @@ Full MERN App    [░░░░░░░░░░░░░░░░░░░░] 
 *"The expert in anything was once a beginner who refused to stop."*
 
 </div>
-
