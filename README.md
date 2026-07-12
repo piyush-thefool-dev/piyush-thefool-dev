@@ -71,7 +71,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql" height="45" alt="Web Stack"/>
 
-*Studying full stack development to ship real products — web dev is a means to build, not the end goal.*
+*Studying full stack development to ship real products, web dev is a means to build, not the end goal.*
 
 </div>
 
@@ -91,7 +91,7 @@
 
 > *"A Jack of All Trades is a master of none, but oftentimes better than a master of one."*
 
-They say it like it's a bad thing. It's not. Every domain I touch makes me better at all the others — a developer who understands security, a hacker who can build, a builder who thinks in systems.
+They say it like it's a bad thing. It's not. Every domain I touch makes me better at all the others, a developer who understands security, a hacker who can build, a builder who thinks in systems.
 
 <div align="center">
 
@@ -112,7 +112,7 @@ LEARNING PHILOSOPHY
 ───────────────────────────────────────────────────────────
   → Start before you're ready
   → Build something broken, then fix it
-  → If it's interesting, dive in — decide priority later
+  → If it's interesting, dive in, decide priority later
   → Every skill you pick up connects to another
 ───────────────────────────────────────────────────────────
 ```
