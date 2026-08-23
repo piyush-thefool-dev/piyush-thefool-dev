@@ -22,7 +22,7 @@
 | **Expanding Into** | Full Stack Web Development 🌐 |
 | **Side Operations** | Cybersecurity & Ethical Hacking 🔐 |
 | **Environment** | Windows 11 · Ubuntu 22.04 LTS (VM) · Kali Linux (VM) |
-| **Current Mission** | Mastering MERN Stack — React · Redux · Bootstrap · MongoDB · Express · Node 🚀 |
+| **Current Mission** | Mastering MERN Stack — React · Redux · Tailwind CSS · MongoDB · Express · Node 🚀 |
 | **Identity** | 🃏 Jack of All Trades — Master of None (yet) / The Fool |
 | **Learning Style** | Hands-on · Obsessive · Never stopping 📖 |
 | **Contact** | thefool.dev.pk@gmail.com |
@@ -53,13 +53,14 @@
 
 | Icon | Language | Proficiency | Role |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" height="35"/> | **Java** | `████████████████░░░░  80%` | OOP · Classes & Objects · Inheritance · Exception Handling · Collections · DSA |
-| <img src="https://skillicons.dev/icons?i=python" height="35"/> | **Python** | `████████████░░░░░░░░  60%` | Secondary · Scripting |
-| <img src="https://skillicons.dev/icons?i=c" height="35"/> | **C** | `██████████░░░░░░░░░░  50%` | Variables · Loops · Functions · Arrays · Pointers · File Handling |
+| <img src="https://skillicons.dev/icons?i=java" height="35"/> | **Java** | `██████████████████░░  90%` | Variables & Control Flow · Functions & Arrays · OOP (Classes, Objects, Inheritance) · ArrayList & Collections Framework · Linked List · Stack & Queue · Binary Tree & BST · Sorting Algorithms · Time Complexity (Big-O) |
+| <img src="https://skillicons.dev/icons?i=python" height="35"/> | **Python** | `████████████████░░░░  80%` | Variables & Data Types · Strings · Conditional Statements · Loops · Functions · Lists, Tuples, Dictionaries & Sets · File Handling · Exception Handling · OOP |
+| <img src="https://skillicons.dev/icons?i=c" height="35"/> | **C** | `████████████████████ 100%` | Variables, Data Types & I/O · Instructions & Operators · Conditional Statements · Loop Control Statements · Functions & Recursion · Pointers · Arrays & Strings · Structures · File I/O · Dynamic Memory Allocation |
 | <img src="https://skillicons.dev/icons?i=cpp" height="35"/> | **C++** | `████░░░░░░░░░░░░░░░░  20%` | Just Getting Started · OOP Basics |
-| <img src="https://skillicons.dev/icons?i=html" height="35"/> | **HTML** | `████████████████████ 100%` | Web Foundation · Solid |
-| <img src="https://skillicons.dev/icons?i=css" height="35"/> | **CSS** | `██████████░░░░░░░░░░  50%` | Still Learning · In Progress |
-| <img src="https://skillicons.dev/icons?i=js" height="35"/> | **JavaScript** | `████████░░░░░░░░░░░░  40%` | Web · Actively Growing |
+| <img src="https://skillicons.dev/icons?i=html" height="35"/> | **HTML** | `████████████████████ 100%` | Structure & Basic Tags · Text Formatting & Lists · Links & Images · Tables · Forms & Inputs · Semantic HTML5 |
+| <img src="https://skillicons.dev/icons?i=css" height="35"/> | **CSS** | `████████████████████ 100%` | Selectors · Colors & Backgrounds · Box Model · Fonts & Display · Size, Position & Lists · Flexbox · Grid · Animations & Transitions |
+| <img src="https://skillicons.dev/icons?i=tailwind" height="35"/> | **Tailwind CSS** | `████████████████████ 100%` | Utility-First Workflow · Config & Customization · Spacing, Sizing & Typography · Flexbox & Grid Utilities · Responsive Breakpoints · Dark Mode · Custom Components |
+| <img src="https://skillicons.dev/icons?i=js" height="35"/> | **JavaScript** | `████████████████████ 100%` | Variables, Operators & Conditionals · Loops & Strings · Arrays · Functions & Methods · DOM Manipulation · Events · OOP (Classes & Objects) · Callbacks, Promises & Async/Await · Fetch API |
 
 </div>
 
@@ -69,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql" height="45" alt="Web Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mysql" height="45" alt="Web Stack"/>
 
 *Studying full stack development to ship real products, web dev is a means to build, not the end goal.*
 
@@ -97,12 +98,13 @@ They say it like it's a bad thing. It's not. Every domain I touch makes me bette
 
 | 🔥 Domain | 📚 What I'm Exploring | 🏫 Where |
 |:---:|:---|:---:|
-| ☕ **Java** | OOP deep dive · DSA · Clean code patterns | Self-study |
-| 🌐 **Web Dev** | CSS layouts · JS DOM · Node + Express APIs | LabEx · Projects |
+| ☕ **Java** | OOP deep dive · ArrayList & Collections · Linked List, Stack, Queue · Trees & BST · Sorting & Big-O | YouTube · Self-study |
+| 🐍 **Python** | Data types & strings · Loops & functions · Lists/Tuples/Dicts/Sets · File & exception handling · OOP | YouTube · Self-study |
+| 🌐 **Web Dev** | JavaScript (DOM, Events, OOP, Promises, Fetch API) · Tailwind CSS · Node + Express APIs | YouTube · LabEx · Projects |
 | 🔐 **Cybersecurity** | CTFs · Network recon · Linux privesc | TryHackMe |
 | 🐧 **Linux** | Shell scripting · System internals · Permissions | LabEx · Ubuntu VM |
 | 🗄️ **Databases** | MySQL · DDL & DML commands · Creating & managing tables · SELECT queries · WHERE clauses · ORDER BY · Joins · Aggregate functions | Self-studied |
-| 🌱 **Next Up** | React · REST APIs · JWT Auth · Docker | Planned |
+| 🌱 **Next Up** | React · Redux · REST APIs · JWT Auth · Docker | Planned |
 | 🎯 **Long Term** | Build full websites end-to-end · Solve DSA & coding challenges · Master backend development · Penetration testing · Cloud & System Design · eJPT / CEH Certification | Future |
 
 </div>
@@ -133,6 +135,20 @@ LEARNING PHILOSOPHY
 - 🐧 Linux internals & security labs via LabEx
 - 🐉 Kali Linux — running in Virtual Machine for hands-on security practice
 
+**TryHackMe Learning Paths**
+
+<div align="center">
+
+| Path | Focus |
+|:---|:---|
+| Pre Security | Networking basics · Web fundamentals · How the internet works |
+| Complete Beginner | Linux · Cryptography · OWASP Top 10 · First real CTFs |
+| Cyber Defense | SOC fundamentals · Log analysis · Threat detection |
+| Offensive Pentesting | Enumeration · Exploitation · Privilege escalation · Reporting |
+| Jr Penetration Tester | Full pentest methodology from recon to writeup |
+
+</div>
+
 **Targets**
 
 - 🎯 eJPT / CEH Certification
@@ -147,7 +163,7 @@ LEARNING PHILOSOPHY
 
 ### ⚡ Going Full Stack — The MERN Way
 
-*React · Redux · Bootstrap · MongoDB · Express · Node.js*
+*React · Redux · Tailwind CSS · MongoDB · Express · Node.js*
 
 </div>
 
@@ -157,29 +173,49 @@ LEARNING PHILOSOPHY
 |:---|:---|
 | ⚛️ **React.js** | Component architecture · Hooks · SPA routing · Reusable UI |
 | 🔄 **Redux** | Predictable global state · Redux Toolkit · Async flows |
-| 🎨 **Bootstrap** | Rapid responsive UI · Grid system · Utility-first styling |
+| 🎨 **Tailwind CSS** | Utility-first styling · Custom themes · Responsive layouts |
 | 🟢 **Node.js + Express** | REST API design · Middleware · Auth · Server-side logic |
 | 🍃 **MongoDB** | Document model · Mongoose ODM · Schema design · Queries |
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,nodejs,express,mongodb,js,html,css" height="45" alt="MERN Stack"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,js,html,css" height="45" alt="MERN Stack"/>
 
 **Progress**
 
 ```
-React.js         [████░░░░░░░░░░░░░░░░]  20%   📖 Actively Studying
-Redux            [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
-Bootstrap        [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
-Node.js          [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
-Express.js       [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
-MongoDB          [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
-Full MERN App    [░░░░░░░░░░░░░░░░░░░░]   0%   🎯 The goal
+Tailwind CSS      [████████████████████] 100%   ✅ Complete
+React.js          [██░░░░░░░░░░░░░░░░░░]  10%   📖 Just Started
+Redux             [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Node.js           [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Express.js        [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+MongoDB           [░░░░░░░░░░░░░░░░░░░░]   0%   🔨 Not Started
+Full MERN App     [░░░░░░░░░░░░░░░░░░░░]   0%   🎯 The goal
 ```
 
 ---
 
-### 〔 07 〕INTELLIGENCE REPORT — GITHUB
+### 〔 07 〕LEARNING & PRACTICE ARSENAL
+
+<div align="center">
+
+| 🌐 Platform | 🎯 What It's For |
+|:---|:---|
+| <img src="https://www.google.com/s2/favicons?domain=labex.io&sz=64" height="20"/> **LabEx** | Linux, languages & tools — learn and practice in a live sandbox |
+| <img src="https://www.google.com/s2/favicons?domain=boot.dev&sz=64" height="20"/> **Boot.dev** | Python, JavaScript & backend fundamentals — learn and practice with real projects |
+| <img src="https://www.google.com/s2/favicons?domain=cssbattle.dev&sz=64" height="20"/> **CSSBattle** | CSS — sharpen selectors, layout and precision through practice challenges |
+| <img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=64" height="20"/> **TryHackMe** / <img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=64" height="20"/> **HackTheBox** | Cybersecurity — learn and practice offensive & defensive skills |
+| <img src="https://www.google.com/s2/favicons?domain=overthewire.org&sz=64" height="20"/> **OverTheWire** | CLI & Linux wargames — practice command-line and shell skills |
+| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=64" height="20"/> **LeetCode** / <img src="https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64" height="20"/> **GeeksforGeeks** | DSA — learn and practice data structures & algorithms |
+| <img src="https://www.google.com/s2/favicons?domain=stackoverflow.com&sz=64" height="20"/> **Stack Overflow** | Doubts & debugging — ask questions, read real-world solutions |
+| <img src="https://www.google.com/s2/favicons?domain=codechef.com&sz=64" height="20"/> **CodeChef** | Competitive programming — learn and practice contest-style problem solving |
+| <img src="https://www.google.com/s2/favicons?domain=scrimba.com&sz=64" height="20"/> **Scrimba** | Full stack development — interactive learn-and-build lessons |
+
+</div>
+
+---
+
+### 〔 08 〕INTELLIGENCE REPORT — GITHUB
 
 <div align="center">
 
@@ -220,7 +256,7 @@ Full MERN App    [░░░░░░░░░░░░░░░░░░░░] 
 
 ---
 
-### 〔 08 〕CONTACT CHANNELS
+### 〔 09 〕CONTACT CHANNELS
 
 <div align="center">
 
